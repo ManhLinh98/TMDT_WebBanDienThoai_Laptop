@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.kkl{
+	height: 320px;
+	border: 1px solid #ccc;
+	padding: 20px 5px;
+}
+.td{
+	        color: #ab8225;
+	    font-size: 18px;
+	    font-weight: bold;
+	    text-align: center;
+}
+.fg{
+	color:blue;
+	font-size: 13px;
+	text-align: center;
+}
+.hangp{
+    display: none;
+}
+.slidep{
+    display: none;
+}

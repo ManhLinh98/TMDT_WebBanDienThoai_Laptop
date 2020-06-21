@@ -1,0 +1,241 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.products{
+	margin-top: 10px;
+	overflow: hidden;
+}
+.tsp{
+    font-size: 22px;
+    font-weight: bold;
+    color:blue;
+    line-height: 30px;
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+    text-align: center;
+}
+.gsp{
+	    color: #f83015;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+    text-align: center;
+}
+.ttc li{
+	     list-style: square;
+}
+.stt{
+	    color: #323232;
+    font-size: 12px;
+    line-height: 19px;
+    font-weight: bold;
+    font-family: "Arial",Helvetica,sans-serif;
+}
+.stt span{
+	color:#d82446;
+	font-weight: bold;
+	font-size: 13px;
+}
+.add{
+	margin-bottom: 10px;
+}
+
+.gift {
+    border: 1px solid #F5BFB8;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 10px;
+    background-color: #fff6f6;
+   margin-bottom: 10px;
+}
+.gift .title {
+    margin-left: -25px;
+    margin-right: -25px;
+    height: 40px;
+    margin-top: -1px;
+    border-top: #f83015 solid 3px;
+    color: #f83015;
+    padding-left: 15px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.gift .content {
+    margin: 0;
+    color: blue;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight:400;
+    font-style: italic;
+    font: 15px "Myriad Pro Condensed";
+    line-height: 23px;
+}
+.guarantee{
+    border: #dadada solid 1px;
+    margin-top: 20px;
+    background-color: #f3f3f3;
+    padding: 10px 10px 10px 14px;
+}
+table > tbody > tr {
+    height: 30px;
+    vertical-align: top;
+}
+.guarantee > table > tbody > tr > td {
+    font-size: 12px;
+    line-height: 16px;
+    color: #323232;
+}
+.tls{
+	margin-top:5px;
+	border:1px solid #dedede;
+	padding-top: 5px;
+	margin-bottom: 10px;
+}
+.tls ul{
+	margin-left: 35px;
+}
+.ttsp{
+	margin-top: 10px;
+	border:1px solid #dedede;
+	padding-top: 8px;
+}
+.ttsp ul{
+	margin-left: 35px;
+}
+.ttsp li{
+	    color: #323232;
+	    font-size: 12px;
+	    padding: 2px 1px;
+	   
+}
+.jk{
+	overflow: hidden;
+	padding-top: 25px;
+	padding-bottom: 30px;
+}
+.hangd{
+	border: 1px solid #ccc;
+}
+
+#bigPic{
+    max-width: 335px;
+    height: 355px;
+}
+#bigPic img{
+    display:none;
+    position: absolute;
+    top:20%;
+}
+ul#thumbs li.active{
+    border:2px solid blue;  
+    background:#fff;
+    padding:2px;
+    border-radius: 5px;
+}
+ul#thumbs, ul#thumbs li{
+    list-style:none;
+}
+    
+ul#thumbs li{
+    float:left;
+    border:1px solid #CCC;  
+    padding:3px;
+    cursor:pointer;
+}
+ul#thumbs img{
+    z-index:1;      
+    width:75px;
+    height:75px;
+}
+.dacdiem{
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}
+.lpi{
+    border-right: 1px solid #ccc;
+}
+.tddd{
+    font: 25px "Myriad Pro Condensed";
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 0px;
+    color: #f83015;
+    text-transform: uppercase;
+}
+.mota{
+    border-bottom: 1px solid #ccc;
+}
+.thongso{
+    float: left;
+}
+.thongso table{
+    width:100%;
+}
+
+.thongso table tr td{
+    border-bottom: 1px solid #dedede;
+    padding: 10px 5px;
+    font: 17px "Myriad Pro Condensed";
+    font-weight: bold;
+    padding-right: 50px;
+  
+}
+.thongso ul li{
+    list-style: none;
+    border-bottom: 1px solid #dedede;
+    padding: 10px 5px;
+    font: 17px "Myriad Pro Condensed";
+    font-weight: bold;
+    padding-right: 50px;
+}
+.danhgia{
+    color:#FF6E00;
+    font: 30px "Myriad Pro Condensed";
+    margin-top: 30px;
+}
+.sptt{
+    color:#FF6E00;
+     font: 25px "Myriad Pro Condensed";
+     padding: 10px 0px;
+     text-align: center;
+     border-bottom: 1px solid #ccc;
+     font-weight: bold;
+}
+.tentt{
+    color:blue;
+     font: 18px "Myriad Pro Condensed";
+     text-align: center;
+
+}
+.giatt{
+    color:red;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.liu{
+    border-bottom: 1px solid #ccc;
+}
+.vklps:hover{
+    text-decoration: none;
+}
+.klr{
+    max-width: 100px;
+    float: left;
+}
+.klr2{
+    float: left;
+    max-width: 250px;
+    background: red;
+}
+
+.anhvlk{
+    width:320px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

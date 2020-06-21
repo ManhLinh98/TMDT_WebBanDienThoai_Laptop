@@ -1,0 +1,150 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.plm{
+	margin-top: 15px;
+}
+.mn{
+	border:1px solid #dedede;
+}
+.cnhan{
+	opacity: .7;
+    background: #333;
+    text-align: center;
+    border-radius: 5px;
+}
+.t{
+	    font: 14pt "Myriad Pro Condensed";
+    color: #f5f5f5;
+    padding: 10px 0px;
+
+}
+.t span{
+	padding-left: 5px;
+}
+.qlk{
+	font: 17px "Myriad Pro Condensed";
+    text-transform: uppercase;
+    padding: 10px 8px;
+    color:#000;
+    font-weight: bold;
+}
+.ttcn {
+	list-style: none;
+	margin: 0px 18px;
+}
+.ttcn li{
+	padding: 10px 0px;
+	border-bottom: 1px solid #dedede;
+}
+.ttcn a{
+	    color: #616161;
+	    font-weight: bold;
+	    font: bold 10pt Arial;
+}
+.ttcn a:hover{
+	color: #eb1c24;
+}
+.tkn{
+	font: 20.25pt "Myriad Pro Condensed";
+    color: #444;
+    text-transform: uppercase;
+    border-bottom: 1px solid #000;
+}
+.tkn .vn{
+	    display: block;
+    margin-bottom: -10px;
+    background-color: #fff;
+    width: 190px;
+    margin-left: 10px;
+    text-align: center;
+}
+.thn{
+	border: 1px solid #dedede;
+	margin-top: 20px;
+
+}
+.dstk{
+	list-style: none;
+}
+.dstk li{
+	    color: #444;
+	    font-weight: bold;
+	    border-bottom: 1px solid #dedede;
+	    font-size: 14px;
+	    padding: 15px 30px;
+}
+.dstk li span{
+	color:blue;
+	text-align: center;
+	font: 16pt "Myriad Pro Condensed";
+}
+.capnhattv{
+	
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.capnhattv a{
+	background: #FDB241;
+	padding: 11px 20px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	color:#fff;
+}
+#subp{
+	background: #FDB241;
+	padding: 11px 20px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	color:#fff;
+	border: none;
+	outline: none;
+}
+.doimk{
+	max-width: 810px;
+	margin-top: 10px;
+}
+.doimk input{
+	max-width: 400px;
+}
+.nhap{
+	color:#444;
+	font-size: 14px;
+	font-weight: bold;
+}
+.vbd{
+	margin-top: 10px;
+}
+#doio{
+	background: #FDB241;
+	padding: 8px 20px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	color:#fff;
+	border: none;
+	outline: none;
+}
+#doiso{
+	background: #FDB241;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	color:#fff;
+}
+.ktr{
+	color:red;
+	font-weight: bold;
+	font: 18pt "Myriad Pro Condensed";
+	text-align: center;
+	margin-top: 10px;
+	max-width: 430px;
+
+}
+.hangp{
+    display: none;
+}
+.slidep{
+    display: none;
+}

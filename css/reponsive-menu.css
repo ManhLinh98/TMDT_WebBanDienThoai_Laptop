@@ -1,0 +1,379 @@
+/*Màn Hình Điện Thoại tối đa 320*/
+@media all and (max-width: 480px){
+	.nav-menu-destop{
+		display: none;
+	}
+}
+/*Màn Hình Điện Thoại tối đa 580*/
+@media all and (max-width: 580px){
+	.nav-menu-destop{
+		display: none;
+	}
+	.tk,.mk,.addthem{
+	margin:0px 30px;
+}
+.addthem .ghinho{
+	float: left;
+	font-size: 12px;
+}
+.addthem .quenmk{
+	float: right;
+	font-size: 11px;
+}
+.title{
+	font-size: 14px;
+}
+.sl{
+	width: 20px;
+	font-size: 12px;
+}
+.tongtien{
+	font-size: 13px;
+}
+.ttp{
+	font-size: 14px;
+}
+#slit  li{
+	width:75px;
+	height:75px;
+}
+
+
+	
+}
+/*Màn Hình Tablet tối đa 768*/
+@media all and (max-width: 768px){
+	.nav-menu-destop{
+		display: none;
+	}
+	.cskh-destop{
+		display: none;
+	}
+	.cskh-phone .hotline{
+		font-size: 13px;
+		color:red;
+		list-style: none;
+		text-align: center;
+		font-weight: bold;
+		padding-top: 15px;
+	}
+	.cskh-phone .hotlin{
+		font-size: 13px;
+		color:#000;
+		list-style: none;
+		text-align: center;
+		font-weight: bold;
+		padding-top: 20px;
+	}
+	.cskh-phone .hotline b{
+		background: #D55602;
+		color:#fff;
+		padding: 7px;
+	}
+	.cskh-phone .hotlin b{
+		background: #D55602;
+		color:#fff;
+		padding: 7px;
+	}
+	.nav-smart{
+		background: #000;
+		padding: 10px 0px;
+	}
+	.menu-phone .logo{
+		float: left;
+	}
+	.menu-phone .nut-menu{
+		float: right;
+	}
+	.menu-phone .nut-menu .nut{
+		font-size: 22px;
+		font-weight: bold;
+		color:#fff;
+		padding-top:12px;
+		cursor: pointer;
+
+	}
+	.menu-phone .nut-menu .nut:hover{
+		color: #0092F5;
+	}
+	.menu-phone .xo-down{
+		width:100%;
+		background:#EEEEEE;
+		display: none;
+		overflow: hidden;
+	}
+	.menu-phone .xo-down .sanpham ul li{
+		list-style:none;
+		border: 1px solid #DDDDDD;
+		text-align: center;
+		padding: 7px 0px;
+	}
+	.menu-phone .xo-down .sanpham ul li a{
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 12px;
+		color:black;
+		text-transform: uppercase;
+	}
+	.tim-kiem{
+		margin: 0px;
+		padding: 0px;
+	}
+	.search-phone{
+		background: #EEEEEE;
+		padding: 10px;
+	}
+	.xoa{
+		margin:0px;
+		padding: 0px;
+	}
+	.form-control{
+		padding:30px;
+		border: none;
+	}
+	.search-phone .form-search{
+		border:1px solid #DDDDDD;
+	}
+	.search-phone .sub-form:hover{
+		background: #0092F5;
+		color:#fff;
+	}
+	.search-phone .button-search{
+		margin-top: 10px;
+	}
+	.search-phone .search{
+		margin-top: 10px;
+	}
+	.form-control{
+		outline: none;
+	}
+	.search-phone .sub-form{
+		padding: 10px 0.80em;
+		border: none;
+		outline: none;
+	}
+		.img-product{
+		height: auto;
+		overflow: hidden;
+	}
+	.cart_sp .tsss{
+	font-size: 10px;
+}
+.tsp_cart{
+	color:#000;
+	font-size: 12px;
+}
+#sl{
+	font-size: 11px;
+}
+.gia_cart{
+	color:red;
+	font-size: 11px;
+	font-weight: bold;
+}
+.xop{
+	font-size: 7px;
+}
+.jk{
+	border-bottom: 2px solid #ccc;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.lpk{
+	margin-top: 25px;
+}
+.mausac{
+	padding-left: 0px;
+}
+.namesp{
+	font: 19px "Myriad Pro Condensed", Tahoma, Arial, Verdana;
+
+
+}
+.kmai ul{
+	margin-left: 20px;
+}
+.dhvl{
+	     font: 30px "Myriad Pro Condensed";
+	     color:#fff;
+	     text-align: center;
+	     padding-top: 10px;
+}
+.vklo{
+	display: none;
+}
+.vkll{display: none;
+}
+.anhvlk{
+    width:280px;
+    height: 280px;
+}
+}
+
+/*Màn Hình Tablet tối đa 1024*/
+@media all and (max-width: 1024px){
+	.nav-menu-destop{
+		display: none;
+	}
+	.nav-smart{
+		background: #000;
+		padding: 10px 0px;
+	}
+	.menu-phone .logo{
+		float: left;
+	}
+	.menu-phone .nut-menu{
+		float: right;
+	}
+	.menu-phone .nut-menu .nut{
+		font-size: 22px;
+		font-weight: bold;
+		color:#fff;
+		padding-top:12px;
+		cursor: pointer;
+
+	}
+	.menu-phone .nut-menu .nut:hover{
+		color: #0092F5;
+	}
+	.menu-phone .xo-down{
+		width:100%;
+		background:#EEEEEE;
+		display: none;
+		overflow: hidden;
+	}
+	.menu-phone .xo-down .sanpham ul li{
+		list-style:none;
+		border: 1px solid #DDDDDD;
+		text-align: center;
+		padding: 7px 0px;
+	}
+	.menu-phone .xo-down .sanpham ul li:hover{
+		background: #d55602;
+		
+	}
+	.menu-phone .xo-down .sanpham ul li a{
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 12px;
+		color:black;
+		text-transform: uppercase;
+	}
+	.menu-phone .xo-down .sanpham ul li a:hover{
+		color:#fff;
+	}
+	.tim-kiem{
+		margin: 0px;
+		padding: 0px;
+	}
+	.search-phone{
+		background: #EEEEEE;
+		padding: 10px;
+	}
+	.xoa{
+		margin:0px;
+		padding: 0px;
+	}
+	.form-control{
+		padding: 20px;
+		border: none;
+	}
+	.search-phone .form-search{
+		border:1px solid #DDDDDD;
+	}
+	.search-phone .button-search{
+		margin-top: 10px;
+	}
+	.search-phone .search{
+		margin-top: 10px;
+	}
+	.form-control{
+		outline: none;
+	}
+	.search-phone .sub-form{
+		padding: 10px 1em;
+		border: none;
+		outline: none;
+	}
+
+
+	.cskh-destop{
+		display: none;
+	}
+	.cskh-phone .hotline{
+		font-size: 13px;
+		color:red;
+		list-style: none;
+		text-align: center;
+		font-weight: bold;
+		padding-top: 15px;
+	}
+	.cskh-phone .hotlin{
+		font-size: 13px;
+		color:#000;
+		list-style: none;
+		text-align: center;
+		font-weight: bold;
+		padding-top: 20px;
+	}
+	.cskh-phone .hotline b{
+		background: #D55602;
+		color:#fff;
+		padding: 7px;
+	}
+	.cskh-phone .hotlin b{
+		background: #D55602;
+		color:#fff;
+		padding: 7px;
+	}
+	.hover-sp .tensplp{
+		display: none;
+	}
+	.hover-sp .gia{
+		display: none;
+	}
+	.hover-sp .txt{
+		display: none;
+	}
+	.h-buy{
+		display: none;
+	}
+	.hover-sp .cart{
+		display: none;
+	}
+	.kkl{
+		height: 275px;
+	}
+	.lpi{
+		border-right: none;
+	}
+	.liu{
+    border-bottom: none;
+}
+.dfg{
+	border-right: none;
+}
+
+.ttp{
+	width:120px;
+	font-size: 14px;
+	    border-radius: 5px;
+	    padding: 6px 0px;
+}
+.ttk{
+	width:130px;
+	font-size: 12px;
+	    border-radius: 5px;
+	    padding: 6px 0px;
+}
+}
+/*Màn Hình Destop*/
+@media all and (min-width: 1024px){
+	.menu-phone{
+		display: none;
+	}
+	.cskh-phone{
+		display: none;
+	}
+
+}

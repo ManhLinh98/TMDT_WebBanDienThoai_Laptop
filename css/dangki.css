@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'myfont';
+    src: url('font/Marydale/marydale.ttf');
+}
+
+*{
+	margin:0px;
+	padding: 0px;
+}
+.form-dk{
+	max-width: 800px;
+	margin:0px auto;
+}
+.dangki form{
+	display: flex;
+	justify-content: space-between ;
+}
+.col-xs-12 input{
+	width: 350px;
+}
+#username,#password,#nhaplaipass,#email,#sdt,#hoten,#cmnd,#diachi,#quan,#tinh,#ngaysinh{
+	 color: blue;
+    font-size: 15px;
+    padding-left: 10px;
+    border: 1px solid #cccccc;
+    padding: 20px 10px;
+    border-radius: 5px;
+}
+#sub-form{
+	color:#fff;
+	background: #00B1E2;
+	border: none;
+	border-radius: 7px;
+	margin-top: 15px;
+	padding: 8px 20px;
+	margin-bottom: 25px;
+	outline: none;
+	text-align: center;
+	width: 150px;
+}
+.sub{
+	text-align: center;
+}
+.dangki span{
+	color:red;
+}
+.dk{
+	color:black;
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+.ma{
+	color:red;
+
+}
+.dk .t1{
+	color: #0b8eb3;
+}
+.dk .t2{
+	color: #fa5400;
+}
+#box{
+	    cursor: pointer;
+    height: 21px;
+    width: 26px;
+    margin-top: 10px;
+}
+.check{
+	color:black;
+	font-weight: bold;
+	font-size: 14px;
+}
+#resultten,#resultmk,#resultnlpass,#resultemail,#resultngay,#resultthang,#resultnam,#resultsdt,#resultbox,#resultcapcha{
+	    color: red;
+    font-weight: bold;
+    font-family: 'myfont';
+    font-size: 16px;
+    padding: 5px 0px;
+}
+.error{
+	color: red;
+    font-weight: bold;
+    font-family: 'myfont';
+    font-size: 16px;
+    text-align: center;
+}
+.hangp{
+    display: none;
+}
+.slidep{
+    display: none;
+}

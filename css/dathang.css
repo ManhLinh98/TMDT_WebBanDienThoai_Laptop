@@ -1,0 +1,176 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.tdmh{
+	background: #0fb163;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.dhvl{
+	     font: 40px "Myriad Pro Condensed";
+	     color:#fff;
+	     text-align: center;
+}
+.vklo{
+	font: 16px "Myriad Pro Condensed";
+	     color:#fff;
+	     text-align: center;
+	     margin-right: 10px;
+}
+
+.vkll{
+	font: 16px "Myriad Pro Condensed";
+	     color:#fff;
+	     text-align: center;
+	     margin-left: 10px;
+}
+.ttkl{
+	    border-bottom: 1px solid red;
+    height: 22px;
+    margin-bottom: 22px;
+    padding-top: 4px;
+}
+.jkl{
+	overflow: hidden;
+}
+.thogtil{
+	width:280px;
+	margin: -1px 20px 0;
+    text-transform: uppercase;
+    background: #fff;
+    font-weight: bold;
+    padding: 0 10px;
+    color: #337ab7;
+    font: 22px "Myriad Pro Condensed", Tahoma, Arial, Verdana;
+}
+.stt{
+	color:#fff;
+	background: #00B1E2;
+	padding: 5px 10px;
+	border-radius: 10px;
+	margin: 0px 10px;
+}
+.anh-dh{
+	max-width: 200px;
+}
+
+.ms{
+	float: left;
+	color:blue;
+	font: 17px "Myriad Pro Condensed", Tahoma, Arial, Verdana;
+	padding-top: 5px;
+}
+.jklm{
+	max-width: 450px;
+	margin-top: 20px;
+}
+.mausac{
+	padding-left: 62px;
+}
+.color1{
+
+	margin:0px 3px;
+	float: left;
+	cursor: pointer;
+}
+.color2{
+
+	margin:0px 3px;
+	float: left;
+	cursor: pointer;
+}
+.color3{
+	margin:0px 3px;
+	float: left;
+	cursor: pointer;
+}
+.sluong{
+	color:blue;
+	font: 17px "Myriad Pro Condensed", Tahoma, Arial, Verdana;
+}
+.sluong span{
+	color:red;
+}
+.giamh{
+	color: #f83015;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+.namesp{
+	font: 23px "Myriad Pro Condensed", Tahoma, Arial, Verdana;
+
+
+}
+.dfg{
+	border-right: 1px solid #ccc;
+}
+.lue{
+	margin: 20px 0px;
+}
+.kmai{
+	    border: 1px solid #F5BFB8;
+	    padding: 20px 0px;
+}
+.tongtientt{
+	color:blue;
+	font: 22px "Myriad Pro Condensed";
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20px;
+}
+.tongtientt span{
+	color:red;
+}
+.kmai ul{
+	margin-left: 50px;
+}
+.titlel{
+	color: #f83015;
+	font-weight: 600;
+}
+.kmai ul li{
+	    color: blue;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: italic;
+    font: 16px "Myriad Pro Condensed";
+    line-height: 20px;
+}
+.k-hang{
+	font: 16px "Myriad Pro Condensed";
+}
+.txtnm{
+	font: 17px "Myriad Pro Condensed";
+	color:#333;
+}
+.txtnm span{
+	color:red;
+}
+
+.k-hang input{
+	font: 15px "Myriad Pro Condensed";
+	border:1px solid #dedede;
+}
+.xacnhan{
+	margin-top: 20px;
+}
+#xacnhan{
+	width:100%;
+	    background-color: #f83015;
+	    color:#fff;
+	    font: 18px "Myriad Pro Condensed";
+	    text-align: center;
+	    border: none;
+	    outline: none;
+	    border-radius: 5px;
+	    padding: 8px 0px;
+}
+.hangp{
+    display: none;
+}
+.slidep{
+    display: none;
+}

@@ -1,0 +1,154 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.inner{
+	    display: table;
+    table-layout: fixed;
+    width: 100%;
+    margin-top: 40px;
+}
+.td{
+	    font-size: 32px;
+    line-height: 45px;
+    font-weight:bold;
+        position: relative;
+    font-size: 30px;
+    margin-bottom: 5px;
+    padding: 6px 0px;
+    text-align: center;
+    border-top:3px solid black;
+}
+.left{
+	    display: table-cell;
+    vertical-align: middle;
+}
+.center{
+	text-align: center;
+	display: table-cell;
+    vertical-align: middle;
+}
+.right{
+	    display: table-cell;
+    vertical-align: middle;
+}
+.h-anh{
+	    vertical-align: middle;
+    max-width: 100%;
+    position: relative;
+}
+.ht1{
+	    font-size: 14px;
+    line-height: 18px;
+    margin-top: 25px;
+}
+.ht2{
+	    font-size: 14px;
+    color: #1952b1;
+    line-height: 18px;
+    margin-bottom: 25px;
+}
+.camket{
+	text-align: center;
+	padding: 40px 0px;
+}
+.nd{
+	font-size: 13px;
+}
+.tdl{
+	font-weight: bold;
+	font-size: 30px;
+}
+.centr{
+	text-align: center;
+}
+.item{
+	    padding: 50px 0 0;
+}
+.hmh{
+	    vertical-align: middle;
+    max-width: 100%;
+    position: relative;
+}
+.bold{
+	    text-transform: uppercase;
+    font-size: 17px;
+    font-weight:bold;
+    padding-top: 20px;
+}
+.txtx{
+	    font-size: 12px;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 10px 0;
+    min-height: 72px;
+}
+.dvl{
+	font-weight: bold;
+	font-size: 30px;
+}
+.ts{
+	font-size: 13px;
+	padding: 5px 0px;
+}
+
+.tcct{
+	padding-bottom: 40px;
+}
+
+.tem{
+	    height: 260px;
+    text-align: center;
+    padding: 80px 15px 0;
+   font-size: 18px;
+   font-weight: bold;
+   color:red;
+    position: relative;
+    z-index: 1;
+    opacity: .5;
+}
+
+.rem{
+	  height: 260px;
+    text-align: center;
+    padding: 80px 15px 0;
+    font-size: 18px;
+   font-weight: bold;
+   color:red;  
+    position: relative;
+    z-index: 1;
+    font-weight: bold;
+    opacity: .5;
+}
+.bangd{
+	   height: 520px;
+    background-color: #5189e8;
+}
+.tc{
+	text-align: center;
+	font-size: 27px;
+	font-weight: bold;
+	color:#fff;
+	padding-top: 150px;
+}
+.bgd{
+	font-size: 18px;
+	color:#fff;
+	text-align: center;
+	padding-top: 10px;
+}
+.lorem{
+	font-size: 13px;
+	color:#fff;
+	text-align: center;
+	padding-top: 20px;
+}
+.icon-kk{
+	font-size: 30px;
+}
+.hangp{
+    display: none;
+}
+.slidep{
+    display: none;
+}

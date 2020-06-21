@@ -1,0 +1,63 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.shado{
+	box-shadow: inset 0px 0px 5px 3px rgba(204,204,204,0.8);
+}
+.pol{
+	padding-bottom: 20px;
+	border-bottom: 1px solid #dedede;
+	border-right:1px solid #dedede;
+	border-top:1px solid #dedede;
+	padding-top: 20px;
+	height: 210px;
+}
+.td{
+	font-size: 22px;
+	font-weight: bold;
+	color:#444;
+	padding: 7px 0px;
+	border-bottom: 2px solid blue;
+	float: left;
+	margin-bottom: 30px;
+}
+.td .tdf{
+	color:red;
+	font-style: italic;
+}
+
+.tensp{
+	color:#444;
+	font-weight: bold;
+	font-size: 15px;
+}
+.sp{
+	padding-top: 7px;
+}
+.giasp{
+	color:red;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 20px;
+}
+.khongthay{
+	color:black;
+	font-weight: bold;
+}
+.khongthay span{
+	color:red;
+	font-style: italic;
+}
+@media all and (max-width: 950px){
+	.pol{
+		height: auto;
+		overflow: hidden;
+	}
+}
+.hangp{
+    display: none;
+}
+.slidep{
+    display: none;
+}

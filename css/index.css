@@ -1,0 +1,325 @@
+*{
+	padding: 0;
+	margin:0px;
+	margin:0px auto;
+}
+a:hover{
+	text-decoration: none;
+}
+.carousel-control.left,.carousel-control.right{
+	    background-image:none;
+}
+.glyphicon-chevron-left,.glyphicon-chevron-right{
+	color:#ED5C30;
+	font-size: 10px;
+}
+.reset{
+	margin: 0px;
+	padding: 0px;
+	padding-right: 10px;
+}
+.slideshow{
+	margin-top: 10px;
+}
+.hangdt{
+	overflow: hidden;
+	border: 1px solid #999;
+	margin-top: 10px;
+	padding-top: 20px; 
+	background: #fff;
+}
+.hangdt .dt-img{
+	height: 50px;
+}
+.hangdt .dt-img img{
+	padding: 5px 5px;
+}
+.hangdt .dt-img img:hover{
+	border:2px solid blue;
+	border-radius: 15px;
+}
+.product{
+	width:100%;
+	overflow: hidden;
+}
+.thumbnail{
+	border: none;
+}
+.product .inner-sp{
+	padding: 0;
+	margin:0;
+	margin-top:2px;
+	border: 1px solid #dedede;
+}
+.img-product{
+	padding: 0;
+	margin:0;
+	height: auto;
+	background: #fff;
+	border:2px solid #dedede;
+	cursor: pointer;
+	position: relative;
+	height: 365px;
+
+}
+.product .img-product .tensp{
+	text-transform: capitalize;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0px;
+    height: 35px;
+}
+.product .img-product .tenspxx{
+	text-transform: capitalize;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+}
+.product .img-product .gia-active{
+	font-size: 25px;
+	    color: #e30000;
+    font-family: 'Open Sans',sans-serif;
+    display: block;
+    margin-bottom: 10px;
+    float: left;
+    padding-left: 5px;
+    padding-top: 51px;
+}
+.product .img-product .buy{
+	float: right;
+	padding-top: 53px;
+	padding-right: 5px;
+}
+.product .img-product .buy .muangay{
+	background: #0092F5;
+	color:#fff;
+	font-size: 16px;
+	padding: 10px 15px;
+	border-radius:5px;
+	font-weight: normal;
+}
+.product .img-product .buy .muangay:hover{
+	    background: #F7A823;
+}
+.product .img-product .giall{
+	    font-size: 18px;
+    color: #e30000;
+    font-family: 'Open Sans',sans-serif;
+    text-align: center;
+    height: 24px;
+}
+.product .cart {
+	text-align: center;
+	padding-bottom: 15px;
+}
+.product .cart .add-cart{
+	text-align: center;
+	color:black;
+	font-size: 12px;
+	font-family: 'Open Sans',sans-serif;
+	padding: 8px 13px;
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+}
+.product .cart .add-cart:hover{
+	border: 1px solid blue;
+	transition: 0.50s ease;
+}
+.product .xemthem .xt{
+	display: block;
+    overflow: hidden;
+    padding: 10px 0;
+    font-size: 14px;
+    color: #288ad6;
+    text-align: center;
+    width: 240px;
+    margin: 10px auto;
+    background: #fff;
+    border: 1px solid #288ad6;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.product .xemthem .xt:hover{
+	    background: #288ad6;
+    color: #fff;
+}
+@media all and (max-width: 768px){
+	.img-product{
+		height: auto;
+	}
+}
+
+
+/*Hover sản phâmẻ*/
+.hover-sp{
+	position: absolute;
+	left:0;
+	top:0;
+	display: none;
+	background: #fff;
+	padding-bottom: 12px;
+	padding-top: 20px;
+	height: 360px;
+
+}
+.hover-sp .tensplp{
+	text-transform: capitalize;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0px;
+}
+.hover-sp .gia{
+	font-size: 18px;
+    color: #e30000;
+    font-family: 'Open Sans',sans-serif;
+    text-align: center;
+}
+.hover-sp .txt{
+	font-size: 12px;
+	color:black;
+	text-align: left;
+	padding: 0px 10px;
+}
+.h-buy{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.h-buycc{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.h-buycc a{
+	background: #d55602;
+	color:#fff;
+	padding: 8px 10px;
+	border-radius: 6px;
+}
+.h-buy a{
+	background: #d55602;
+	color:#fff;
+	padding: 8px 10px;
+	border-radius: 6px;
+}
+.spdb{
+	    border-bottom: 1px solid #FF6E00;
+    height: 22px;
+    margin-bottom: 22px;
+    padding-top: 4px;
+    margin-top:15px;
+}
+.spdb p {
+    float: left;
+    margin: -1px 60px 0;
+    text-transform: uppercase;
+    background: #ddd;
+    font-weight: bold;
+    padding: 0 10px;
+    color: #337ab7;
+    font: 27px "Myriad Pro Condensed", Tahoma, Arial, Verdana, sans-serif;
+}
+.maytinh .spmt{
+	background: #fff;
+	border: 2px solid #ccc;
+	height: 420px;
+}
+.maytinh .ten_mt{
+	    color: #212121;
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 5px;
+    overflow: hidden;
+    text-overflow: clip;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    height: 38px;
+}
+.maytinh .gia_mt{
+	    font-size: 14px;
+    font-weight: bold;
+    color: #3a3a3a;
+    text-align: center;
+    margin-bottom: 3px;
+    padding-top: 5px;
+    height: 30px;
+}
+.maytinh .gia_mt span{
+	color:red;
+}
+
+.maytinh .mua{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+.maytinh .mua a{
+	background:#f89406;
+	color:#fff;
+	text-decoration: none;
+	padding: 7px 10px;
+	font-size: 14px;
+	border-radius: 6px;
+}
+.maytinh .ha_sp{
+	height: auto;
+	overflow: hidden;
+}
+.maytinh .mua a:hover{
+	color:#fff;
+	text-decoration: none;
+	background: #288ad6;
+}
+.maytinh .them{
+	text-align: center;
+	padding-bottom: 18px;
+	height: 42px;
+	
+}
+.maytinh .them a{
+	background: #288ad6;
+	color:#fff;
+	text-decoration: none;
+	padding: 7px 10px;
+	border-radius: 6px;
+	font-size: 12px;
+	margin-top: 100px;
+
+}
+.maytinh .them a:hover{
+	color:#fff;
+	text-decoration: none;
+	background: #f89406;
+}
+.maytinh .them .kk{
+
+	font-size: 18px;
+}
+
+.slide .item img{
+	width: 100%;
+	height: 500px;
+}
+
+@media all and (max-width: 768px){
+	.spdb p{
+		font-size: 18px;
+	}
+	.maytinh .spmt{
+		height: auto;
+		
+	}
+}
+@media all and (max-width: 1024px){
+		.maytinh .spmt{
+		height: auto;
+		
+	}
+
+}
